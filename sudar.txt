@@ -6,3 +6,4 @@ safjspfij
 line added
 I will induce conflict for you
 story over
+I added new change as needed
